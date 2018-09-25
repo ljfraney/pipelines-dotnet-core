@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://jcpsit.visualstudio.com/Dev/_apis/build/status/pipelines-dotnet-core-CI)](https://jcpsit.visualstudio.com/Dev/_build/latest?definitionId=5)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
